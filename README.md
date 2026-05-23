@@ -1,4 +1,4 @@
-# There-Is-No-Rule-Prohibiting-Principals-from-Making-Their-Speeches-Interesting
+# Mission-052:There-Is-No-Rule-Prohibiting-Principals-from-Making-Their-Speeches-Interesting
 M-052 校長先生の話はつまらないが面白くしたらダメというルールはない🤣 ー There Is No Rule Prohibiting Principals from Making Their Speeches Interesting🤣
 
 [← レポート一覧に戻る](https://github.com/choiizuka/reports-index)
@@ -14,7 +14,7 @@ M-052 校長先生の話はつまらないが面白くしたらダメという�
 
 ---
 
-# M-052 校長先生の話はつまらないが面白くしたらダメというルールはない🤣 ー There Is No Rule Prohibiting Principals from Making Their Speeches Interesting🤣
+# Mission-052 校長先生の話はつまらないが面白くしたらダメというルールはない🤣 ー There Is No Rule Prohibiting Principals from Making Their Speeches Interesting🤣
 
 ## 1. 目的 (Objectives)**
 本レポートの目的は、全国的に観測される「校長先生の朝礼講話が極めて退屈である」という普遍的現象に対し、それが法的な制約（ハードコードされた仕様）によるものか、あるいは人間組織特有の心理的・政治的なバグ（後付けのガードレール）に起因するものかを0ベースで検証し、社会インフラストラクチャにおける不合理な「思い込みの壁」を数理的に解体することである。
